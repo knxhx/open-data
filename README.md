@@ -20,7 +20,7 @@ Here are accompanying data challenges dealing with homelessness in Knoxville
 
 Develop app or website to plug in services that will then tell you route to take and potential costs associated with route or time to destination (could also see use beyond the homeless). In some ways this is like the Transit app (https://transitapp.com/partners/transit) but would have a directory of sources. 
 
-Story: if a user needs to go to CAC or Social Security Office, what KAT route does the user need to take (including connections) at what time.
+Example: if a user needs to go to CAC or Social Security Office, what KAT route does the user need to take (including connections) at what time.
 
 Useful data sources: [http://knoxvilletn.gov/cms/One.aspx?portalId=109562&pageId=11688599](http://knoxvilletn.gov/cms/One.aspx?portalId=109562&pageId=11688599)
 
@@ -51,11 +51,11 @@ Examples:
 - sponsor a ride for someone? (medical, appointments) [Lyft](https://blog.lyft.com/posts/lyft-and-united-way-join-forces-to-provide-free-rides-to-those-in-need) [Lyft Coverage 2](https://www.fastcompany.com/90284063/lyft-is-teaming-up-with-nonprofits-to-get-people-in-need-where-they-need-to-go)
 
 
-### How do i get vital documents? **
+### How do I get vital documents?
 
 - (birth certificate / social security card / in-state or out of state) understanding the cost for that, times to call (can't walk in)
 
-### youth focused app**
+### Youth focused app
 
 - In Knoxville, unaccompanied persons age 12-24 have a different set of needs from the larger population experiencing homelessness
 
@@ -84,7 +84,7 @@ Excel list compiled by Waste Connection from driver comments.
 
 We could create more columns for checkboxes so the type of postcard sent is very tailored to that single issue.
 
-#### Data:
+#### Data
 
 Provided are FAKE violators that simulate the data the department receives. For useful visualization, the addresses provided are real addresses (but no violation has actually occurred).
 
@@ -106,6 +106,10 @@ Under the PILOT program, a property's current property taxes are frozen for a nu
 
 In Knoxville and Knox County, the Payment-In-Lieu-Of-Taxes (PILOT) program is targeted at development of property for either jobs-creating economic development projects or economic-catalyst projects. In both cases, the goal is to appropriately incentivize business owners or developers to create economic activity where there was none before. The criteria in weighing these applications is that the project is operating on a thin margin, and it wouldn't be possible without the City assistance in closing the financing gap.
 
+#### Data
+
+[PILOT recipients](data/PILOT_summary.xlsx)
+
 
 ## Mobility
 
@@ -118,7 +122,7 @@ The goal is to have an App for the City of Knoxville Public Service Department t
 - [Completed Potholes](data/completed_potholes_2018.xls)
 - [Open Potholes](data/open_potholes.xlsx)
 
-Parking in city owned garages (hourly data)
+### Parking in city owned garages
 
 The Public Building Authority installed sensors last August from Parking Logix on the city's four public parking garages downtown: Locust Street, Market Square, State Street, and Main Avenue. Data is aggregated hourly as a measure of vehicles: ingress, egress, occupancy, and vacancy. The data provided has been scraped from their internal system and is provided as a flat file with ISO correct timestamps. Potential use cases for this data is to highlight times where vacancy is negative (drivers enter but don't find a spot). Garages show "0 spaces remaining" with 50 spaces remaining. For large events, spaces fill up quickly, messages could be delivered to drivers (whether they have the Parkopedia app or not) to bypass garages expected to fill up first.
 
@@ -127,8 +131,6 @@ The Public Building Authority installed sensors last August from Parking Logix o
 Parking data has been collapsed into a single flat csv file. Data collection began the first week of August 2018, the data is hourly.
 
 [parking_data](data/parking_data.csv)
-
-
 
 ## Codestock Speaker Feedback Form
 
@@ -181,10 +183,10 @@ Dataset put together by the [Tennessee State Data Center at the Boyd Center for 
         - [Census tracts](https://myutk.maps.arcgis.com/home/item.html?id=6e2e2be87a1f4fef9cb6d6deb84183c5)
 
 #### Tennessee STS GIS Data  
-- [Services and Downloads](https://www.tn.gov/finance/sts-gis/gis/data.html)
+- [STS GIS Services and Downloads](https://www.tn.gov/finance/sts-gis/gis/data.html)
 - [Tennessee STS GIS Open Data Portal](http://tn-tnmap.opendata.arcgis.com/)
 - [Tennessee State Parks](https://tnstateparks-tdec.opendata.arcgis.com/)
-- [TWRA] (https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets?group_ids=76d68999556b4897a78370d93da9418b)
+- [TWRA](https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets?group_ids=76d68999556b4897a78370d93da9418b)
 
 #### Traffic Counts in Knoxville Region
 
