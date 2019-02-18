@@ -159,6 +159,10 @@ Develop a technology solution to collect and send feedback to speakers and draw 
 
 ### Local Datasets
 
+#### Knoxville Open Data Portal
+Open Data Portal for the ongoing collection and release of data from the City of Knoxville as well as some of the City's partner agencies. 
+- http://knoxvilletn.gov/government/opendata
+
 #### Open Data from Knoxville-Knox County Planning
 - Greenways and Trails in Knox County
 - Parks in Knox County

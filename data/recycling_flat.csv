@@ -1,0 +1,793 @@
+,material,location,commodity_wt,date,location_type
+0,Aluminum,Magnolia & Alice,460.0,2018-01-01,drop off center
+1,"Plastics (""Commingled"")",Magnolia & Alice,8840.0,2018-01-01,drop off center
+2,Glass,Magnolia & Alice,15680.0,2018-01-01,drop off center
+3,Mixed Paper,Magnolia & Alice,12800.0,2018-01-01,drop off center
+4,Cardboard,Magnolia & Alice,10720.0,2018-01-01,drop off center
+5,Steel/Tin,Magnolia & Alice,520.0,2018-01-01,drop off center
+6,Newspaper,Magnolia & Alice,3440.0,2018-01-01,drop off center
+7,All Mixed (no glass),Magnolia & Alice,,2018-01-01,drop off center
+8,Aluminum,225 Moody,300.0,2018-01-01,drop off center
+9,"Plastics (""Commingled"")",225 Moody,4957.0,2018-01-01,drop off center
+10,Glass,225 Moody,6300.0,2018-01-01,drop off center
+11,Mixed Paper,225 Moody,6360.0,2018-01-01,drop off center
+12,Cardboard,225 Moody,5455.0,2018-01-01,drop off center
+13,Steel/Tin,225 Moody,760.0,2018-01-01,drop off center
+14,Newspaper,225 Moody,11700.0,2018-01-01,drop off center
+15,All Mixed (no glass),225 Moody,,2018-01-01,drop off center
+16,Aluminum,4440 Western Av.,680.0,2018-01-01,drop off center
+17,"Plastics (""Commingled"")",4440 Western Av.,5540.0,2018-01-01,drop off center
+18,Glass,4440 Western Av.,14520.0,2018-01-01,drop off center
+19,Mixed Paper,4440 Western Av.,10420.0,2018-01-01,drop off center
+20,Cardboard,4440 Western Av.,9200.0,2018-01-01,drop off center
+21,Steel/Tin,4440 Western Av.,1200.0,2018-01-01,drop off center
+22,Newspaper,4440 Western Av.,0.0,2018-01-01,drop off center
+23,All Mixed (no glass),4440 Western Av.,,2018-01-01,drop off center
+24,Aluminum,341 Parkvillage,1940.0,2018-01-01,drop off center
+25,"Plastics (""Commingled"")",341 Parkvillage,13940.0,2018-01-01,drop off center
+26,Glass,341 Parkvillage,29260.0,2018-01-01,drop off center
+27,Mixed Paper,341 Parkvillage,32260.0,2018-01-01,drop off center
+28,Cardboard,341 Parkvillage,24780.0,2018-01-01,drop off center
+29,Steel/Tin,341 Parkvillage,1920.0,2018-01-01,drop off center
+30,Newspaper,341 Parkvillage,16040.0,2018-01-01,drop off center
+31,All Mixed (no glass),341 Parkvillage,,2018-01-01,drop off center
+32,Aluminum,227 Willow Av.,426.0,2018-01-01,other
+33,"Plastics (""Commingled"")",227 Willow Av.,3020.0,2018-01-01,other
+34,Glass,227 Willow Av.,15820.0,2018-01-01,other
+35,Mixed Paper,227 Willow Av.,6560.0,2018-01-01,other
+36,Cardboard,227 Willow Av.,3980.0,2018-01-01,other
+37,Steel/Tin,227 Willow Av.,540.0,2018-01-01,other
+38,Newspaper,227 Willow Av.,3740.0,2018-01-01,other
+39,All Mixed (no glass),227 Willow Av.,,2018-01-01,other
+40,Aluminum,Curbside City-Wide,,2018-01-01,other
+41,"Plastics (""Commingled"")",Curbside City-Wide,,2018-01-01,other
+42,Glass,Curbside City-Wide,,2018-01-01,other
+43,Mixed Paper,Curbside City-Wide,,2018-01-01,other
+44,Cardboard,Curbside City-Wide,,2018-01-01,other
+45,Steel/Tin,Curbside City-Wide,,2018-01-01,other
+46,Newspaper,Curbside City-Wide,,2018-01-01,other
+47,All Mixed (no glass),Curbside City-Wide,685020.0,2018-01-01,other
+48,Aluminum,Downtown,,2018-01-01,curbside
+49,"Plastics (""Commingled"")",Downtown,,2018-01-01,curbside
+50,Glass,Downtown,,2018-01-01,curbside
+51,Mixed Paper,Downtown,,2018-01-01,curbside
+52,Cardboard,Downtown,8300.0,2018-01-01,curbside
+53,Steel/Tin,Downtown,,2018-01-01,curbside
+54,Newspaper,Downtown,,2018-01-01,curbside
+55,All Mixed (no glass),Downtown,60300.0,2018-01-01,curbside
+56,Aluminum,KPD,,2018-01-01,other
+57,"Plastics (""Commingled"")",KPD,,2018-01-01,other
+58,Glass,KPD,,2018-01-01,other
+59,Mixed Paper,KPD,5054.0,2018-01-01,other
+60,Cardboard,KPD,,2018-01-01,other
+61,Steel/Tin,KPD,,2018-01-01,other
+62,Newspaper,KPD,,2018-01-01,other
+63,All Mixed (no glass),KPD,,2018-01-01,other
+64,Aluminum,Recycling Trailer,0.0,2018-01-01,other
+65,"Plastics (""Commingled"")",Recycling Trailer,0.0,2018-01-01,other
+66,Glass,Recycling Trailer,0.0,2018-01-01,other
+67,Mixed Paper,Recycling Trailer,0.0,2018-01-01,other
+68,Cardboard,Recycling Trailer,0.0,2018-01-01,other
+69,Steel/Tin,Recycling Trailer,0.0,2018-01-01,other
+70,Newspaper,Recycling Trailer,0.0,2018-01-01,other
+71,All Mixed (no glass),Recycling Trailer,0.0,2018-01-01,other
+0,Aluminum,Magnolia & Alice,700.0,2018-02-01,drop off center
+1,"Plastics (""Commingled"")",Magnolia & Alice,3740.0,2018-02-01,drop off center
+2,Glass,Magnolia & Alice,5900.0,2018-02-01,drop off center
+3,Mixed Paper,Magnolia & Alice,11140.0,2018-02-01,drop off center
+4,Cardboard,Magnolia & Alice,4380.0,2018-02-01,drop off center
+5,Steel/Tin,Magnolia & Alice,320.0,2018-02-01,drop off center
+6,Newspaper,Magnolia & Alice,0.0,2018-02-01,drop off center
+7,All Mixed (no glass),Magnolia & Alice,,2018-02-01,drop off center
+8,Aluminum,225 Moody,460.0,2018-02-01,drop off center
+9,"Plastics (""Commingled"")",225 Moody,6640.0,2018-02-01,drop off center
+10,Glass,225 Moody,15280.0,2018-02-01,drop off center
+11,Mixed Paper,225 Moody,24340.0,2018-02-01,drop off center
+12,Cardboard,225 Moody,8560.0,2018-02-01,drop off center
+13,Steel/Tin,225 Moody,780.0,2018-02-01,drop off center
+14,Newspaper,225 Moody,11220.0,2018-02-01,drop off center
+15,All Mixed (no glass),225 Moody,,2018-02-01,drop off center
+16,Aluminum,4440 Western Av.,360.0,2018-02-01,drop off center
+17,"Plastics (""Commingled"")",4440 Western Av.,4100.0,2018-02-01,drop off center
+18,Glass,4440 Western Av.,13860.0,2018-02-01,drop off center
+19,Mixed Paper,4440 Western Av.,7480.0,2018-02-01,drop off center
+20,Cardboard,4440 Western Av.,7240.0,2018-02-01,drop off center
+21,Steel/Tin,4440 Western Av.,600.0,2018-02-01,drop off center
+22,Newspaper,4440 Western Av.,7760.0,2018-02-01,drop off center
+23,All Mixed (no glass),4440 Western Av.,,2018-02-01,drop off center
+24,Aluminum,341 Parkvillage,12220.0,2018-02-01,drop off center
+25,"Plastics (""Commingled"")",341 Parkvillage,25480.0,2018-02-01,drop off center
+26,Glass,341 Parkvillage,38000.0,2018-02-01,drop off center
+27,Mixed Paper,341 Parkvillage,50680.0,2018-02-01,drop off center
+28,Cardboard,341 Parkvillage,26720.0,2018-02-01,drop off center
+29,Steel/Tin,341 Parkvillage,1900.0,2018-02-01,drop off center
+30,Newspaper,341 Parkvillage,19980.0,2018-02-01,drop off center
+31,All Mixed (no glass),341 Parkvillage,,2018-02-01,drop off center
+32,Aluminum,227 Willow Av.,260.0,2018-02-01,other
+33,"Plastics (""Commingled"")",227 Willow Av.,3560.0,2018-02-01,other
+34,Glass,227 Willow Av.,17640.0,2018-02-01,other
+35,Mixed Paper,227 Willow Av.,8040.0,2018-02-01,other
+36,Cardboard,227 Willow Av.,6680.0,2018-02-01,other
+37,Steel/Tin,227 Willow Av.,1120.0,2018-02-01,other
+38,Newspaper,227 Willow Av.,0.0,2018-02-01,other
+39,All Mixed (no glass),227 Willow Av.,,2018-02-01,other
+40,Aluminum,Curbside City-Wide,,2018-02-01,other
+41,"Plastics (""Commingled"")",Curbside City-Wide,,2018-02-01,other
+42,Glass,Curbside City-Wide,,2018-02-01,other
+43,Mixed Paper,Curbside City-Wide,,2018-02-01,other
+44,Cardboard,Curbside City-Wide,,2018-02-01,other
+45,Steel/Tin,Curbside City-Wide,,2018-02-01,other
+46,Newspaper,Curbside City-Wide,,2018-02-01,other
+47,All Mixed (no glass),Curbside City-Wide,661150.0,2018-02-01,other
+48,Aluminum,Downtown,,2018-02-01,curbside
+49,"Plastics (""Commingled"")",Downtown,,2018-02-01,curbside
+50,Glass,Downtown,,2018-02-01,curbside
+51,Mixed Paper,Downtown,,2018-02-01,curbside
+52,Cardboard,Downtown,5340.0,2018-02-01,curbside
+53,Steel/Tin,Downtown,,2018-02-01,curbside
+54,Newspaper,Downtown,,2018-02-01,curbside
+55,All Mixed (no glass),Downtown,58000.0,2018-02-01,curbside
+56,Aluminum,KPD,,2018-02-01,other
+57,"Plastics (""Commingled"")",KPD,,2018-02-01,other
+58,Glass,KPD,,2018-02-01,other
+59,Mixed Paper,KPD,5852.0,2018-02-01,other
+60,Cardboard,KPD,,2018-02-01,other
+61,Steel/Tin,KPD,,2018-02-01,other
+62,Newspaper,KPD,,2018-02-01,other
+63,All Mixed (no glass),KPD,,2018-02-01,other
+64,Aluminum,Recycling Trailer,0.0,2018-02-01,other
+65,"Plastics (""Commingled"")",Recycling Trailer,0.0,2018-02-01,other
+66,Glass,Recycling Trailer,0.0,2018-02-01,other
+67,Mixed Paper,Recycling Trailer,0.0,2018-02-01,other
+68,Cardboard,Recycling Trailer,0.0,2018-02-01,other
+69,Steel/Tin,Recycling Trailer,0.0,2018-02-01,other
+70,Newspaper,Recycling Trailer,0.0,2018-02-01,other
+71,All Mixed (no glass),Recycling Trailer,0.0,2018-02-01,other
+0,Aluminum,Magnolia & Alice,300.0,2018-03-01,drop off center
+1,"Plastics (""Commingled"")",Magnolia & Alice,5760.0,2018-03-01,drop off center
+2,Glass,Magnolia & Alice,12400.0,2018-03-01,drop off center
+3,Mixed Paper,Magnolia & Alice,15500.0,2018-03-01,drop off center
+4,Cardboard,Magnolia & Alice,8720.0,2018-03-01,drop off center
+5,Steel/Tin,Magnolia & Alice,820.0,2018-03-01,drop off center
+6,Newspaper,Magnolia & Alice,0.0,2018-03-01,drop off center
+7,All Mixed (no glass),Magnolia & Alice,,2018-03-01,drop off center
+8,Aluminum,225 Moody,740.0,2018-03-01,drop off center
+9,"Plastics (""Commingled"")",225 Moody,7900.0,2018-03-01,drop off center
+10,Glass,225 Moody,18540.0,2018-03-01,drop off center
+11,Mixed Paper,225 Moody,11360.0,2018-03-01,drop off center
+12,Cardboard,225 Moody,8540.0,2018-03-01,drop off center
+13,Steel/Tin,225 Moody,240.0,2018-03-01,drop off center
+14,Newspaper,225 Moody,11920.0,2018-03-01,drop off center
+15,All Mixed (no glass),225 Moody,,2018-03-01,drop off center
+16,Aluminum,4440 Western Av.,0.0,2018-03-01,drop off center
+17,"Plastics (""Commingled"")",4440 Western Av.,6540.0,2018-03-01,drop off center
+18,Glass,4440 Western Av.,7060.0,2018-03-01,drop off center
+19,Mixed Paper,4440 Western Av.,10580.0,2018-03-01,drop off center
+20,Cardboard,4440 Western Av.,9320.0,2018-03-01,drop off center
+21,Steel/Tin,4440 Western Av.,0.0,2018-03-01,drop off center
+22,Newspaper,4440 Western Av.,0.0,2018-03-01,drop off center
+23,All Mixed (no glass),4440 Western Av.,,2018-03-01,drop off center
+24,Aluminum,341 Parkvillage,2720.0,2018-03-01,drop off center
+25,"Plastics (""Commingled"")",341 Parkvillage,26500.0,2018-03-01,drop off center
+26,Glass,341 Parkvillage,42800.0,2018-03-01,drop off center
+27,Mixed Paper,341 Parkvillage,53400.0,2018-03-01,drop off center
+28,Cardboard,341 Parkvillage,34820.0,2018-03-01,drop off center
+29,Steel/Tin,341 Parkvillage,2000.0,2018-03-01,drop off center
+30,Newspaper,341 Parkvillage,16280.0,2018-03-01,drop off center
+31,All Mixed (no glass),341 Parkvillage,,2018-03-01,drop off center
+32,Aluminum,227 Willow Av.,180.0,2018-03-01,other
+33,"Plastics (""Commingled"")",227 Willow Av.,2940.0,2018-03-01,other
+34,Glass,227 Willow Av.,19640.0,2018-03-01,other
+35,Mixed Paper,227 Willow Av.,12460.0,2018-03-01,other
+36,Cardboard,227 Willow Av.,7320.0,2018-03-01,other
+37,Steel/Tin,227 Willow Av.,620.0,2018-03-01,other
+38,Newspaper,227 Willow Av.,0.0,2018-03-01,other
+39,All Mixed (no glass),227 Willow Av.,,2018-03-01,other
+40,Aluminum,Curbside City-Wide,,2018-03-01,other
+41,"Plastics (""Commingled"")",Curbside City-Wide,,2018-03-01,other
+42,Glass,Curbside City-Wide,,2018-03-01,other
+43,Mixed Paper,Curbside City-Wide,,2018-03-01,other
+44,Cardboard,Curbside City-Wide,,2018-03-01,other
+45,Steel/Tin,Curbside City-Wide,,2018-03-01,other
+46,Newspaper,Curbside City-Wide,,2018-03-01,other
+47,All Mixed (no glass),Curbside City-Wide,740780.0,2018-03-01,other
+48,Aluminum,Downtown,,2018-03-01,curbside
+49,"Plastics (""Commingled"")",Downtown,,2018-03-01,curbside
+50,Glass,Downtown,,2018-03-01,curbside
+51,Mixed Paper,Downtown,,2018-03-01,curbside
+52,Cardboard,Downtown,5640.0,2018-03-01,curbside
+53,Steel/Tin,Downtown,,2018-03-01,curbside
+54,Newspaper,Downtown,,2018-03-01,curbside
+55,All Mixed (no glass),Downtown,56580.0,2018-03-01,curbside
+56,Aluminum,KPD,,2018-03-01,other
+57,"Plastics (""Commingled"")",KPD,,2018-03-01,other
+58,Glass,KPD,,2018-03-01,other
+59,Mixed Paper,KPD,7874.0,2018-03-01,other
+60,Cardboard,KPD,,2018-03-01,other
+61,Steel/Tin,KPD,,2018-03-01,other
+62,Newspaper,KPD,,2018-03-01,other
+63,All Mixed (no glass),KPD,,2018-03-01,other
+64,Aluminum,Recycling Trailer,0.0,2018-03-01,other
+65,"Plastics (""Commingled"")",Recycling Trailer,0.0,2018-03-01,other
+66,Glass,Recycling Trailer,0.0,2018-03-01,other
+67,Mixed Paper,Recycling Trailer,0.0,2018-03-01,other
+68,Cardboard,Recycling Trailer,0.0,2018-03-01,other
+69,Steel/Tin,Recycling Trailer,0.0,2018-03-01,other
+70,Newspaper,Recycling Trailer,0.0,2018-03-01,other
+71,All Mixed (no glass),Recycling Trailer,0.0,2018-03-01,other
+0,Aluminum,Magnolia & Alice,900.0,2018-04-01,drop off center
+1,"Plastics (""Commingled"")",Magnolia & Alice,4160.0,2018-04-01,drop off center
+2,Glass,Magnolia & Alice,12860.0,2018-04-01,drop off center
+3,Mixed Paper,Magnolia & Alice,8640.0,2018-04-01,drop off center
+4,Cardboard,Magnolia & Alice,8120.0,2018-04-01,drop off center
+5,Steel/Tin,Magnolia & Alice,900.0,2018-04-01,drop off center
+6,Newspaper,Magnolia & Alice,0.0,2018-04-01,drop off center
+7,All Mixed (no glass),Magnolia & Alice,,2018-04-01,drop off center
+8,Aluminum,225 Moody,240.0,2018-04-01,drop off center
+9,"Plastics (""Commingled"")",225 Moody,7740.0,2018-04-01,drop off center
+10,Glass,225 Moody,13750.0,2018-04-01,drop off center
+11,Mixed Paper,225 Moody,10960.0,2018-04-01,drop off center
+12,Cardboard,225 Moody,9480.0,2018-04-01,drop off center
+13,Steel/Tin,225 Moody,940.0,2018-04-01,drop off center
+14,Newspaper,225 Moody,24840.0,2018-04-01,drop off center
+15,All Mixed (no glass),225 Moody,,2018-04-01,drop off center
+16,Aluminum,4440 Western Av.,360.0,2018-04-01,drop off center
+17,"Plastics (""Commingled"")",4440 Western Av.,6140.0,2018-04-01,drop off center
+18,Glass,4440 Western Av.,14840.0,2018-04-01,drop off center
+19,Mixed Paper,4440 Western Av.,11380.0,2018-04-01,drop off center
+20,Cardboard,4440 Western Av.,8900.0,2018-04-01,drop off center
+21,Steel/Tin,4440 Western Av.,800.0,2018-04-01,drop off center
+22,Newspaper,4440 Western Av.,7480.0,2018-04-01,drop off center
+23,All Mixed (no glass),4440 Western Av.,,2018-04-01,drop off center
+24,Aluminum,341 Parkvillage,2720.0,2018-04-01,drop off center
+25,"Plastics (""Commingled"")",341 Parkvillage,30720.0,2018-04-01,drop off center
+26,Glass,341 Parkvillage,33080.0,2018-04-01,drop off center
+27,Mixed Paper,341 Parkvillage,52900.0,2018-04-01,drop off center
+28,Cardboard,341 Parkvillage,41620.0,2018-04-01,drop off center
+29,Steel/Tin,341 Parkvillage,2540.0,2018-04-01,drop off center
+30,Newspaper,341 Parkvillage,16340.0,2018-04-01,drop off center
+31,All Mixed (no glass),341 Parkvillage,,2018-04-01,drop off center
+32,Aluminum,227 Willow Av.,220.0,2018-04-01,other
+33,"Plastics (""Commingled"")",227 Willow Av.,3480.0,2018-04-01,other
+34,Glass,227 Willow Av.,16180.0,2018-04-01,other
+35,Mixed Paper,227 Willow Av.,7920.0,2018-04-01,other
+36,Cardboard,227 Willow Av.,7420.0,2018-04-01,other
+37,Steel/Tin,227 Willow Av.,480.0,2018-04-01,other
+38,Newspaper,227 Willow Av.,0.0,2018-04-01,other
+39,All Mixed (no glass),227 Willow Av.,,2018-04-01,other
+40,Aluminum,Curbside City-Wide,,2018-04-01,other
+41,"Plastics (""Commingled"")",Curbside City-Wide,,2018-04-01,other
+42,Glass,Curbside City-Wide,,2018-04-01,other
+43,Mixed Paper,Curbside City-Wide,,2018-04-01,other
+44,Cardboard,Curbside City-Wide,,2018-04-01,other
+45,Steel/Tin,Curbside City-Wide,,2018-04-01,other
+46,Newspaper,Curbside City-Wide,,2018-04-01,other
+47,All Mixed (no glass),Curbside City-Wide,698177.0,2018-04-01,other
+48,Aluminum,Downtown,,2018-04-01,curbside
+49,"Plastics (""Commingled"")",Downtown,,2018-04-01,curbside
+50,Glass,Downtown,,2018-04-01,curbside
+51,Mixed Paper,Downtown,,2018-04-01,curbside
+52,Cardboard,Downtown,3340.0,2018-04-01,curbside
+53,Steel/Tin,Downtown,,2018-04-01,curbside
+54,Newspaper,Downtown,,2018-04-01,curbside
+55,All Mixed (no glass),Downtown,65680.0,2018-04-01,curbside
+56,Aluminum,KPD,,2018-04-01,other
+57,"Plastics (""Commingled"")",KPD,,2018-04-01,other
+58,Glass,KPD,,2018-04-01,other
+59,Mixed Paper,KPD,5852.0,2018-04-01,other
+60,Cardboard,KPD,,2018-04-01,other
+61,Steel/Tin,KPD,,2018-04-01,other
+62,Newspaper,KPD,,2018-04-01,other
+63,All Mixed (no glass),KPD,,2018-04-01,other
+64,Aluminum,Recycling Trailer,0.0,2018-04-01,other
+65,"Plastics (""Commingled"")",Recycling Trailer,0.0,2018-04-01,other
+66,Glass,Recycling Trailer,0.0,2018-04-01,other
+67,Mixed Paper,Recycling Trailer,0.0,2018-04-01,other
+68,Cardboard,Recycling Trailer,0.0,2018-04-01,other
+69,Steel/Tin,Recycling Trailer,0.0,2018-04-01,other
+70,Newspaper,Recycling Trailer,0.0,2018-04-01,other
+71,All Mixed (no glass),Recycling Trailer,0.0,2018-04-01,other
+0,Aluminum,Magnolia & Alice,780.0,2018-05-01,drop off center
+1,"Plastics (""Commingled"")",Magnolia & Alice,8000.0,2018-05-01,drop off center
+2,Glass,Magnolia & Alice,7500.0,2018-05-01,drop off center
+3,Mixed Paper,Magnolia & Alice,13500.0,2018-05-01,drop off center
+4,Cardboard,Magnolia & Alice,18060.0,2018-05-01,drop off center
+5,Steel/Tin,Magnolia & Alice,0.0,2018-05-01,drop off center
+6,Newspaper,Magnolia & Alice,8400.0,2018-05-01,drop off center
+7,All Mixed (no glass),Magnolia & Alice,,2018-05-01,drop off center
+8,Aluminum,225 Moody,860.0,2018-05-01,drop off center
+9,"Plastics (""Commingled"")",225 Moody,10220.0,2018-05-01,drop off center
+10,Glass,225 Moody,22460.0,2018-05-01,drop off center
+11,Mixed Paper,225 Moody,14640.0,2018-05-01,drop off center
+12,Cardboard,225 Moody,9560.0,2018-05-01,drop off center
+13,Steel/Tin,225 Moody,1560.0,2018-05-01,drop off center
+14,Newspaper,225 Moody,30000.0,2018-05-01,drop off center
+15,All Mixed (no glass),225 Moody,,2018-05-01,drop off center
+16,Aluminum,4440 Western Av.,380.0,2018-05-01,drop off center
+17,"Plastics (""Commingled"")",4440 Western Av.,6000.0,2018-05-01,drop off center
+18,Glass,4440 Western Av.,9520.0,2018-05-01,drop off center
+19,Mixed Paper,4440 Western Av.,14560.0,2018-05-01,drop off center
+20,Cardboard,4440 Western Av.,10540.0,2018-05-01,drop off center
+21,Steel/Tin,4440 Western Av.,1020.0,2018-05-01,drop off center
+22,Newspaper,4440 Western Av.,0.0,2018-05-01,drop off center
+23,All Mixed (no glass),4440 Western Av.,,2018-05-01,drop off center
+24,Aluminum,341 Parkvillage,3660.0,2018-05-01,drop off center
+25,"Plastics (""Commingled"")",341 Parkvillage,29680.0,2018-05-01,drop off center
+26,Glass,341 Parkvillage,48000.0,2018-05-01,drop off center
+27,Mixed Paper,341 Parkvillage,53940.0,2018-05-01,drop off center
+28,Cardboard,341 Parkvillage,37320.0,2018-05-01,drop off center
+29,Steel/Tin,341 Parkvillage,2060.0,2018-05-01,drop off center
+30,Newspaper,341 Parkvillage,22680.0,2018-05-01,drop off center
+31,All Mixed (no glass),341 Parkvillage,,2018-05-01,drop off center
+32,Aluminum,227 Willow Av.,680.0,2018-05-01,other
+33,"Plastics (""Commingled"")",227 Willow Av.,4440.0,2018-05-01,other
+34,Glass,227 Willow Av.,15080.0,2018-05-01,other
+35,Mixed Paper,227 Willow Av.,7700.0,2018-05-01,other
+36,Cardboard,227 Willow Av.,9260.0,2018-05-01,other
+37,Steel/Tin,227 Willow Av.,1020.0,2018-05-01,other
+38,Newspaper,227 Willow Av.,5320.0,2018-05-01,other
+39,All Mixed (no glass),227 Willow Av.,,2018-05-01,other
+40,Aluminum,Curbside City-Wide,,2018-05-01,other
+41,"Plastics (""Commingled"")",Curbside City-Wide,,2018-05-01,other
+42,Glass,Curbside City-Wide,,2018-05-01,other
+43,Mixed Paper,Curbside City-Wide,,2018-05-01,other
+44,Cardboard,Curbside City-Wide,,2018-05-01,other
+45,Steel/Tin,Curbside City-Wide,,2018-05-01,other
+46,Newspaper,Curbside City-Wide,,2018-05-01,other
+47,All Mixed (no glass),Curbside City-Wide,740330.0,2018-05-01,other
+48,Aluminum,Downtown,,2018-05-01,curbside
+49,"Plastics (""Commingled"")",Downtown,,2018-05-01,curbside
+50,Glass,Downtown,,2018-05-01,curbside
+51,Mixed Paper,Downtown,,2018-05-01,curbside
+52,Cardboard,Downtown,12500.0,2018-05-01,curbside
+53,Steel/Tin,Downtown,,2018-05-01,curbside
+54,Newspaper,Downtown,,2018-05-01,curbside
+55,All Mixed (no glass),Downtown,71540.0,2018-05-01,curbside
+56,Aluminum,KPD,,2018-05-01,other
+57,"Plastics (""Commingled"")",KPD,,2018-05-01,other
+58,Glass,KPD,,2018-05-01,other
+59,Mixed Paper,KPD,6601.0,2018-05-01,other
+60,Cardboard,KPD,,2018-05-01,other
+61,Steel/Tin,KPD,,2018-05-01,other
+62,Newspaper,KPD,,2018-05-01,other
+63,All Mixed (no glass),KPD,,2018-05-01,other
+64,Aluminum,Recycling Trailer,0.0,2018-05-01,other
+65,"Plastics (""Commingled"")",Recycling Trailer,0.0,2018-05-01,other
+66,Glass,Recycling Trailer,0.0,2018-05-01,other
+67,Mixed Paper,Recycling Trailer,0.0,2018-05-01,other
+68,Cardboard,Recycling Trailer,0.0,2018-05-01,other
+69,Steel/Tin,Recycling Trailer,0.0,2018-05-01,other
+70,Newspaper,Recycling Trailer,0.0,2018-05-01,other
+71,All Mixed (no glass),Recycling Trailer,0.0,2018-05-01,other
+0,Aluminum,Magnolia & Alice,840.0,2018-06-01,drop off center
+1,"Plastics (""Commingled"")",Magnolia & Alice,6700.0,2018-06-01,drop off center
+2,Glass,Magnolia & Alice,11180.0,2018-06-01,drop off center
+3,Mixed Paper,Magnolia & Alice,20360.0,2018-06-01,drop off center
+4,Cardboard,Magnolia & Alice,14780.0,2018-06-01,drop off center
+5,Steel/Tin,Magnolia & Alice,520.0,2018-06-01,drop off center
+6,Newspaper,Magnolia & Alice,0.0,2018-06-01,drop off center
+7,All Mixed (no glass),Magnolia & Alice,,2018-06-01,drop off center
+8,Aluminum,225 Moody,540.0,2018-06-01,drop off center
+9,"Plastics (""Commingled"")",225 Moody,4580.0,2018-06-01,drop off center
+10,Glass,225 Moody,9120.0,2018-06-01,drop off center
+11,Mixed Paper,225 Moody,19520.0,2018-06-01,drop off center
+12,Cardboard,225 Moody,8860.0,2018-06-01,drop off center
+13,Steel/Tin,225 Moody,420.0,2018-06-01,drop off center
+14,Newspaper,225 Moody,16700.0,2018-06-01,drop off center
+15,All Mixed (no glass),225 Moody,,2018-06-01,drop off center
+16,Aluminum,4440 Western Av.,0.0,2018-06-01,drop off center
+17,"Plastics (""Commingled"")",4440 Western Av.,6620.0,2018-06-01,drop off center
+18,Glass,4440 Western Av.,12940.0,2018-06-01,drop off center
+19,Mixed Paper,4440 Western Av.,9780.0,2018-06-01,drop off center
+20,Cardboard,4440 Western Av.,10120.0,2018-06-01,drop off center
+21,Steel/Tin,4440 Western Av.,,2018-06-01,drop off center
+22,Newspaper,4440 Western Av.,0.0,2018-06-01,drop off center
+23,All Mixed (no glass),4440 Western Av.,,2018-06-01,drop off center
+24,Aluminum,341 Parkvillage,2840.0,2018-06-01,drop off center
+25,"Plastics (""Commingled"")",341 Parkvillage,27680.0,2018-06-01,drop off center
+26,Glass,341 Parkvillage,43680.0,2018-06-01,drop off center
+27,Mixed Paper,341 Parkvillage,52300.0,2018-06-01,drop off center
+28,Cardboard,341 Parkvillage,33020.0,2018-06-01,drop off center
+29,Steel/Tin,341 Parkvillage,2360.0,2018-06-01,drop off center
+30,Newspaper,341 Parkvillage,12160.0,2018-06-01,drop off center
+31,All Mixed (no glass),341 Parkvillage,,2018-06-01,drop off center
+32,Aluminum,227 Willow Av.,80.0,2018-06-01,other
+33,"Plastics (""Commingled"")",227 Willow Av.,3080.0,2018-06-01,other
+34,Glass,227 Willow Av.,17460.0,2018-06-01,other
+35,Mixed Paper,227 Willow Av.,6460.0,2018-06-01,other
+36,Cardboard,227 Willow Av.,9000.0,2018-06-01,other
+37,Steel/Tin,227 Willow Av.,480.0,2018-06-01,other
+38,Newspaper,227 Willow Av.,3480.0,2018-06-01,other
+39,All Mixed (no glass),227 Willow Av.,,2018-06-01,other
+40,Aluminum,Curbside City-Wide,,2018-06-01,other
+41,"Plastics (""Commingled"")",Curbside City-Wide,,2018-06-01,other
+42,Glass,Curbside City-Wide,,2018-06-01,other
+43,Mixed Paper,Curbside City-Wide,,2018-06-01,other
+44,Cardboard,Curbside City-Wide,,2018-06-01,other
+45,Steel/Tin,Curbside City-Wide,,2018-06-01,other
+46,Newspaper,Curbside City-Wide,,2018-06-01,other
+47,All Mixed (no glass),Curbside City-Wide,549980.0,2018-06-01,other
+48,Aluminum,Downtown,,2018-06-01,curbside
+49,"Plastics (""Commingled"")",Downtown,,2018-06-01,curbside
+50,Glass,Downtown,,2018-06-01,curbside
+51,Mixed Paper,Downtown,,2018-06-01,curbside
+52,Cardboard,Downtown,10400.0,2018-06-01,curbside
+53,Steel/Tin,Downtown,,2018-06-01,curbside
+54,Newspaper,Downtown,,2018-06-01,curbside
+55,All Mixed (no glass),Downtown,109700.0,2018-06-01,curbside
+56,Aluminum,KPD,,2018-06-01,other
+57,"Plastics (""Commingled"")",KPD,,2018-06-01,other
+58,Glass,KPD,,2018-06-01,other
+59,Mixed Paper,KPD,8576.0,2018-06-01,other
+60,Cardboard,KPD,,2018-06-01,other
+61,Steel/Tin,KPD,,2018-06-01,other
+62,Newspaper,KPD,,2018-06-01,other
+63,All Mixed (no glass),KPD,,2018-06-01,other
+64,Aluminum,Recycling Trailer,0.0,2018-06-01,other
+65,"Plastics (""Commingled"")",Recycling Trailer,0.0,2018-06-01,other
+66,Glass,Recycling Trailer,0.0,2018-06-01,other
+67,Mixed Paper,Recycling Trailer,0.0,2018-06-01,other
+68,Cardboard,Recycling Trailer,0.0,2018-06-01,other
+69,Steel/Tin,Recycling Trailer,0.0,2018-06-01,other
+70,Newspaper,Recycling Trailer,0.0,2018-06-01,other
+71,All Mixed (no glass),Recycling Trailer,0.0,2018-06-01,other
+0,Aluminum,Magnolia & Alice,820.0,2018-07-01,drop off center
+1,"Plastics (""Commingled"")",Magnolia & Alice,6440.0,2018-07-01,drop off center
+2,Glass,Magnolia & Alice,7200.0,2018-07-01,drop off center
+3,Mixed Paper,Magnolia & Alice,19780.0,2018-07-01,drop off center
+4,Cardboard,Magnolia & Alice,36680.0,2018-07-01,drop off center
+5,Steel/Tin,Magnolia & Alice,1480.0,2018-07-01,drop off center
+6,Newspaper,Magnolia & Alice,640.0,2018-07-01,drop off center
+7,All Mixed (no glass),Magnolia & Alice,,2018-07-01,drop off center
+8,Aluminum,225 Moody,1620.0,2018-07-01,drop off center
+9,"Plastics (""Commingled"")",225 Moody,10530.0,2018-07-01,drop off center
+10,Glass,225 Moody,24060.0,2018-07-01,drop off center
+11,Mixed Paper,225 Moody,12440.0,2018-07-01,drop off center
+12,Cardboard,225 Moody,35736.0,2018-07-01,drop off center
+13,Steel/Tin,225 Moody,340.0,2018-07-01,drop off center
+14,Newspaper,225 Moody,11440.0,2018-07-01,drop off center
+15,All Mixed (no glass),225 Moody,,2018-07-01,drop off center
+16,Aluminum,4440 Western Av.,840.0,2018-07-01,drop off center
+17,"Plastics (""Commingled"")",4440 Western Av.,5820.0,2018-07-01,drop off center
+18,Glass,4440 Western Av.,10740.0,2018-07-01,drop off center
+19,Mixed Paper,4440 Western Av.,29460.0,2018-07-01,drop off center
+20,Cardboard,4440 Western Av.,13780.0,2018-07-01,drop off center
+21,Steel/Tin,4440 Western Av.,760.0,2018-07-01,drop off center
+22,Newspaper,4440 Western Av.,0.0,2018-07-01,drop off center
+23,All Mixed (no glass),4440 Western Av.,,2018-07-01,drop off center
+24,Aluminum,341 Parkvillage,6020.0,2018-07-01,drop off center
+25,"Plastics (""Commingled"")",341 Parkvillage,35920.0,2018-07-01,drop off center
+26,Glass,341 Parkvillage,39420.0,2018-07-01,drop off center
+27,Mixed Paper,341 Parkvillage,90460.0,2018-07-01,drop off center
+28,Cardboard,341 Parkvillage,68140.0,2018-07-01,drop off center
+29,Steel/Tin,341 Parkvillage,4380.0,2018-07-01,drop off center
+30,Newspaper,341 Parkvillage,8090.0,2018-07-01,drop off center
+31,All Mixed (no glass),341 Parkvillage,,2018-07-01,drop off center
+32,Aluminum,227 Willow Av.,200.0,2018-07-01,other
+33,"Plastics (""Commingled"")",227 Willow Av.,3260.0,2018-07-01,other
+34,Glass,227 Willow Av.,20600.0,2018-07-01,other
+35,Mixed Paper,227 Willow Av.,10800.0,2018-07-01,other
+36,Cardboard,227 Willow Av.,9660.0,2018-07-01,other
+37,Steel/Tin,227 Willow Av.,520.0,2018-07-01,other
+38,Newspaper,227 Willow Av.,0.0,2018-07-01,other
+39,All Mixed (no glass),227 Willow Av.,,2018-07-01,other
+40,Aluminum,Curbside City-Wide,,2018-07-01,other
+41,"Plastics (""Commingled"")",Curbside City-Wide,,2018-07-01,other
+42,Glass,Curbside City-Wide,,2018-07-01,other
+43,Mixed Paper,Curbside City-Wide,,2018-07-01,other
+44,Cardboard,Curbside City-Wide,,2018-07-01,other
+45,Steel/Tin,Curbside City-Wide,,2018-07-01,other
+46,Newspaper,Curbside City-Wide,,2018-07-01,other
+47,All Mixed (no glass),Curbside City-Wide,861970.0,2018-07-01,other
+48,Aluminum,Downtown,,2018-07-01,curbside
+49,"Plastics (""Commingled"")",Downtown,,2018-07-01,curbside
+50,Glass,Downtown,,2018-07-01,curbside
+51,Mixed Paper,Downtown,,2018-07-01,curbside
+52,Cardboard,Downtown,4880.0,2018-07-01,curbside
+53,Steel/Tin,Downtown,,2018-07-01,curbside
+54,Newspaper,Downtown,,2018-07-01,curbside
+55,All Mixed (no glass),Downtown,78774.0,2018-07-01,curbside
+56,Aluminum,KPD,,2018-07-01,other
+57,"Plastics (""Commingled"")",KPD,,2018-07-01,other
+58,Glass,KPD,,2018-07-01,other
+59,Mixed Paper,KPD,10523.0,2018-07-01,other
+60,Cardboard,KPD,,2018-07-01,other
+61,Steel/Tin,KPD,,2018-07-01,other
+62,Newspaper,KPD,,2018-07-01,other
+63,All Mixed (no glass),KPD,,2018-07-01,other
+64,Aluminum,Recycling Trailer,0.0,2018-07-01,other
+65,"Plastics (""Commingled"")",Recycling Trailer,0.0,2018-07-01,other
+66,Glass,Recycling Trailer,0.0,2018-07-01,other
+67,Mixed Paper,Recycling Trailer,0.0,2018-07-01,other
+68,Cardboard,Recycling Trailer,0.0,2018-07-01,other
+69,Steel/Tin,Recycling Trailer,0.0,2018-07-01,other
+70,Newspaper,Recycling Trailer,0.0,2018-07-01,other
+71,All Mixed (no glass),Recycling Trailer,0.0,2018-07-01,other
+0,Aluminum,Magnolia & Alice,940.0,2018-08-01,drop off center
+1,"Plastics (""Commingled"")",Magnolia & Alice,6640.0,2018-08-01,drop off center
+2,Glass,Magnolia & Alice,12000.0,2018-08-01,drop off center
+3,Mixed Paper,Magnolia & Alice,8420.0,2018-08-01,drop off center
+4,Cardboard,Magnolia & Alice,8620.0,2018-08-01,drop off center
+5,Steel/Tin,Magnolia & Alice,0.0,2018-08-01,drop off center
+6,Newspaper,Magnolia & Alice,0.0,2018-08-01,drop off center
+7,All Mixed (no glass),Magnolia & Alice,,2018-08-01,drop off center
+8,Aluminum,225 Moody,1620.0,2018-08-01,drop off center
+9,"Plastics (""Commingled"")",225 Moody,7620.0,2018-08-01,drop off center
+10,Glass,225 Moody,10660.0,2018-08-01,drop off center
+11,Mixed Paper,225 Moody,39820.0,2018-08-01,drop off center
+12,Cardboard,225 Moody,16100.0,2018-08-01,drop off center
+13,Steel/Tin,225 Moody,540.0,2018-08-01,drop off center
+14,Newspaper,225 Moody,0.0,2018-08-01,drop off center
+15,All Mixed (no glass),225 Moody,,2018-08-01,drop off center
+16,Aluminum,4440 Western Av.,0.0,2018-08-01,drop off center
+17,"Plastics (""Commingled"")",4440 Western Av.,5380.0,2018-08-01,drop off center
+18,Glass,4440 Western Av.,15120.0,2018-08-01,drop off center
+19,Mixed Paper,4440 Western Av.,7980.0,2018-08-01,drop off center
+20,Cardboard,4440 Western Av.,11500.0,2018-08-01,drop off center
+21,Steel/Tin,4440 Western Av.,0.0,2018-08-01,drop off center
+22,Newspaper,4440 Western Av.,7520.0,2018-08-01,drop off center
+23,All Mixed (no glass),4440 Western Av.,,2018-08-01,drop off center
+24,Aluminum,341 Parkvillage,2620.0,2018-08-01,drop off center
+25,"Plastics (""Commingled"")",341 Parkvillage,29100.0,2018-08-01,drop off center
+26,Glass,341 Parkvillage,44460.0,2018-08-01,drop off center
+27,Mixed Paper,341 Parkvillage,75870.0,2018-08-01,drop off center
+28,Cardboard,341 Parkvillage,50280.0,2018-08-01,drop off center
+29,Steel/Tin,341 Parkvillage,1800.0,2018-08-01,drop off center
+30,Newspaper,341 Parkvillage,0.0,2018-08-01,drop off center
+31,All Mixed (no glass),341 Parkvillage,,2018-08-01,drop off center
+32,Aluminum,227 Willow Av.,960.0,2018-08-01,other
+33,"Plastics (""Commingled"")",227 Willow Av.,2880.0,2018-08-01,other
+34,Glass,227 Willow Av.,13760.0,2018-08-01,other
+35,Mixed Paper,227 Willow Av.,8460.0,2018-08-01,other
+36,Cardboard,227 Willow Av.,9140.0,2018-08-01,other
+37,Steel/Tin,227 Willow Av.,160.0,2018-08-01,other
+38,Newspaper,227 Willow Av.,3800.0,2018-08-01,other
+39,All Mixed (no glass),227 Willow Av.,,2018-08-01,other
+40,Aluminum,Curbside City-Wide,,2018-08-01,other
+41,"Plastics (""Commingled"")",Curbside City-Wide,,2018-08-01,other
+42,Glass,Curbside City-Wide,,2018-08-01,other
+43,Mixed Paper,Curbside City-Wide,,2018-08-01,other
+44,Cardboard,Curbside City-Wide,,2018-08-01,other
+45,Steel/Tin,Curbside City-Wide,,2018-08-01,other
+46,Newspaper,Curbside City-Wide,,2018-08-01,other
+47,All Mixed (no glass),Curbside City-Wide,738820.0,2018-08-01,other
+48,Aluminum,Downtown,,2018-08-01,curbside
+49,"Plastics (""Commingled"")",Downtown,,2018-08-01,curbside
+50,Glass,Downtown,,2018-08-01,curbside
+51,Mixed Paper,Downtown,,2018-08-01,curbside
+52,Cardboard,Downtown,3400.0,2018-08-01,curbside
+53,Steel/Tin,Downtown,,2018-08-01,curbside
+54,Newspaper,Downtown,,2018-08-01,curbside
+55,All Mixed (no glass),Downtown,73140.0,2018-08-01,curbside
+56,Aluminum,KPD,,2018-08-01,other
+57,"Plastics (""Commingled"")",KPD,,2018-08-01,other
+58,Glass,KPD,,2018-08-01,other
+59,Mixed Paper,KPD,5086.0,2018-08-01,other
+60,Cardboard,KPD,,2018-08-01,other
+61,Steel/Tin,KPD,,2018-08-01,other
+62,Newspaper,KPD,,2018-08-01,other
+63,All Mixed (no glass),KPD,,2018-08-01,other
+64,Aluminum,Recycling Trailer,0.0,2018-08-01,other
+65,"Plastics (""Commingled"")",Recycling Trailer,0.0,2018-08-01,other
+66,Glass,Recycling Trailer,0.0,2018-08-01,other
+67,Mixed Paper,Recycling Trailer,0.0,2018-08-01,other
+68,Cardboard,Recycling Trailer,0.0,2018-08-01,other
+69,Steel/Tin,Recycling Trailer,0.0,2018-08-01,other
+70,Newspaper,Recycling Trailer,0.0,2018-08-01,other
+71,All Mixed (no glass),Recycling Trailer,0.0,2018-08-01,other
+0,Aluminum,Magnolia & Alice,320.0,2018-09-01,drop off center
+1,"Plastics (""Commingled"")",Magnolia & Alice,3960.0,2018-09-01,drop off center
+2,Glass,Magnolia & Alice,5820.0,2018-09-01,drop off center
+3,Mixed Paper,Magnolia & Alice,13840.0,2018-09-01,drop off center
+4,Cardboard,Magnolia & Alice,13200.0,2018-09-01,drop off center
+5,Steel/Tin,Magnolia & Alice,600.0,2018-09-01,drop off center
+6,Newspaper,Magnolia & Alice,0.0,2018-09-01,drop off center
+7,All Mixed (no glass),Magnolia & Alice,,2018-09-01,drop off center
+8,Aluminum,225 Moody,1140.0,2018-09-01,drop off center
+9,"Plastics (""Commingled"")",225 Moody,6260.0,2018-09-01,drop off center
+10,Glass,225 Moody,17100.0,2018-09-01,drop off center
+11,Mixed Paper,225 Moody,35060.0,2018-09-01,drop off center
+12,Cardboard,225 Moody,7560.0,2018-09-01,drop off center
+13,Steel/Tin,225 Moody,80.0,2018-09-01,drop off center
+14,Newspaper,225 Moody,0.0,2018-09-01,drop off center
+15,All Mixed (no glass),225 Moody,,2018-09-01,drop off center
+16,Aluminum,4440 Western Av.,340.0,2018-09-01,drop off center
+17,"Plastics (""Commingled"")",4440 Western Av.,5520.0,2018-09-01,drop off center
+18,Glass,4440 Western Av.,12880.0,2018-09-01,drop off center
+19,Mixed Paper,4440 Western Av.,26700.0,2018-09-01,drop off center
+20,Cardboard,4440 Western Av.,11260.0,2018-09-01,drop off center
+21,Steel/Tin,4440 Western Av.,940.0,2018-09-01,drop off center
+22,Newspaper,4440 Western Av.,0.0,2018-09-01,drop off center
+23,All Mixed (no glass),4440 Western Av.,,2018-09-01,drop off center
+24,Aluminum,341 Parkvillage,3000.0,2018-09-01,drop off center
+25,"Plastics (""Commingled"")",341 Parkvillage,25850.0,2018-09-01,drop off center
+26,Glass,341 Parkvillage,37360.0,2018-09-01,drop off center
+27,Mixed Paper,341 Parkvillage,60860.0,2018-09-01,drop off center
+28,Cardboard,341 Parkvillage,37628.0,2018-09-01,drop off center
+29,Steel/Tin,341 Parkvillage,1600.0,2018-09-01,drop off center
+30,Newspaper,341 Parkvillage,0.0,2018-09-01,drop off center
+31,All Mixed (no glass),341 Parkvillage,,2018-09-01,drop off center
+32,Aluminum,227 Willow Av.,300.0,2018-09-01,other
+33,"Plastics (""Commingled"")",227 Willow Av.,3580.0,2018-09-01,other
+34,Glass,227 Willow Av.,17860.0,2018-09-01,other
+35,Mixed Paper,227 Willow Av.,5680.0,2018-09-01,other
+36,Cardboard,227 Willow Av.,8326.0,2018-09-01,other
+37,Steel/Tin,227 Willow Av.,500.0,2018-09-01,other
+38,Newspaper,227 Willow Av.,0.0,2018-09-01,other
+39,All Mixed (no glass),227 Willow Av.,,2018-09-01,other
+40,Aluminum,Curbside City-Wide,,2018-09-01,other
+41,"Plastics (""Commingled"")",Curbside City-Wide,,2018-09-01,other
+42,Glass,Curbside City-Wide,,2018-09-01,other
+43,Mixed Paper,Curbside City-Wide,,2018-09-01,other
+44,Cardboard,Curbside City-Wide,,2018-09-01,other
+45,Steel/Tin,Curbside City-Wide,,2018-09-01,other
+46,Newspaper,Curbside City-Wide,,2018-09-01,other
+47,All Mixed (no glass),Curbside City-Wide,602574.0,2018-09-01,other
+48,Aluminum,Downtown,,2018-09-01,curbside
+49,"Plastics (""Commingled"")",Downtown,,2018-09-01,curbside
+50,Glass,Downtown,,2018-09-01,curbside
+51,Mixed Paper,Downtown,,2018-09-01,curbside
+52,Cardboard,Downtown,13840.0,2018-09-01,curbside
+53,Steel/Tin,Downtown,,2018-09-01,curbside
+54,Newspaper,Downtown,,2018-09-01,curbside
+55,All Mixed (no glass),Downtown,68560.0,2018-09-01,curbside
+56,Aluminum,KPD,,2018-09-01,other
+57,"Plastics (""Commingled"")",KPD,,2018-09-01,other
+58,Glass,KPD,,2018-09-01,other
+59,Mixed Paper,KPD,6139.0,2018-09-01,other
+60,Cardboard,KPD,,2018-09-01,other
+61,Steel/Tin,KPD,,2018-09-01,other
+62,Newspaper,KPD,,2018-09-01,other
+63,All Mixed (no glass),KPD,,2018-09-01,other
+64,Aluminum,Recycling Trailer,0.0,2018-09-01,other
+65,"Plastics (""Commingled"")",Recycling Trailer,0.0,2018-09-01,other
+66,Glass,Recycling Trailer,0.0,2018-09-01,other
+67,Mixed Paper,Recycling Trailer,0.0,2018-09-01,other
+68,Cardboard,Recycling Trailer,0.0,2018-09-01,other
+69,Steel/Tin,Recycling Trailer,0.0,2018-09-01,other
+70,Newspaper,Recycling Trailer,0.0,2018-09-01,other
+71,All Mixed (no glass),Recycling Trailer,0.0,2018-09-01,other
+0,Aluminum,Magnolia & Alice,360.0,2018-10-01,drop off center
+1,"Plastics (""Commingled"")",Magnolia & Alice,3440.0,2018-10-01,drop off center
+2,Glass,Magnolia & Alice,2220.0,2018-10-01,drop off center
+3,Mixed Paper,Magnolia & Alice,8840.0,2018-10-01,drop off center
+4,Cardboard,Magnolia & Alice,11300.0,2018-10-01,drop off center
+5,Steel/Tin,Magnolia & Alice,680.0,2018-10-01,drop off center
+6,Newspaper,Magnolia & Alice,5420.0,2018-10-01,drop off center
+7,All Mixed (no glass),Magnolia & Alice,,2018-10-01,drop off center
+8,Aluminum,225 Moody,240.0,2018-10-01,drop off center
+9,"Plastics (""Commingled"")",225 Moody,7260.0,2018-10-01,drop off center
+10,Glass,225 Moody,27160.0,2018-10-01,drop off center
+11,Mixed Paper,225 Moody,11440.0,2018-10-01,drop off center
+12,Cardboard,225 Moody,8400.0,2018-10-01,drop off center
+13,Steel/Tin,225 Moody,2520.0,2018-10-01,drop off center
+14,Newspaper,225 Moody,18540.0,2018-10-01,drop off center
+15,All Mixed (no glass),225 Moody,,2018-10-01,drop off center
+16,Aluminum,4440 Western Av.,640.0,2018-10-01,drop off center
+17,"Plastics (""Commingled"")",4440 Western Av.,4380.0,2018-10-01,drop off center
+18,Glass,4440 Western Av.,12320.0,2018-10-01,drop off center
+19,Mixed Paper,4440 Western Av.,17040.0,2018-10-01,drop off center
+20,Cardboard,4440 Western Av.,7580.0,2018-10-01,drop off center
+21,Steel/Tin,4440 Western Av.,740.0,2018-10-01,drop off center
+22,Newspaper,4440 Western Av.,10780.0,2018-10-01,drop off center
+23,All Mixed (no glass),4440 Western Av.,,2018-10-01,drop off center
+24,Aluminum,341 Parkvillage,680.0,2018-10-01,drop off center
+25,"Plastics (""Commingled"")",341 Parkvillage,25040.0,2018-10-01,drop off center
+26,Glass,341 Parkvillage,47860.0,2018-10-01,drop off center
+27,Mixed Paper,341 Parkvillage,69040.0,2018-10-01,drop off center
+28,Cardboard,341 Parkvillage,36020.0,2018-10-01,drop off center
+29,Steel/Tin,341 Parkvillage,2560.0,2018-10-01,drop off center
+30,Newspaper,341 Parkvillage,15040.0,2018-10-01,drop off center
+31,All Mixed (no glass),341 Parkvillage,,2018-10-01,drop off center
+32,Aluminum,227 Willow Av.,0.0,2018-10-01,other
+33,"Plastics (""Commingled"")",227 Willow Av.,2800.0,2018-10-01,other
+34,Glass,227 Willow Av.,9260.0,2018-10-01,other
+35,Mixed Paper,227 Willow Av.,4980.0,2018-10-01,other
+36,Cardboard,227 Willow Av.,11160.0,2018-10-01,other
+37,Steel/Tin,227 Willow Av.,0.0,2018-10-01,other
+38,Newspaper,227 Willow Av.,5240.0,2018-10-01,other
+39,All Mixed (no glass),227 Willow Av.,,2018-10-01,other
+40,Aluminum,Curbside City-Wide,,2018-10-01,other
+41,"Plastics (""Commingled"")",Curbside City-Wide,,2018-10-01,other
+42,Glass,Curbside City-Wide,,2018-10-01,other
+43,Mixed Paper,Curbside City-Wide,,2018-10-01,other
+44,Cardboard,Curbside City-Wide,,2018-10-01,other
+45,Steel/Tin,Curbside City-Wide,,2018-10-01,other
+46,Newspaper,Curbside City-Wide,,2018-10-01,other
+47,All Mixed (no glass),Curbside City-Wide,849650.0,2018-10-01,other
+48,Aluminum,Downtown,,2018-10-01,curbside
+49,"Plastics (""Commingled"")",Downtown,,2018-10-01,curbside
+50,Glass,Downtown,,2018-10-01,curbside
+51,Mixed Paper,Downtown,,2018-10-01,curbside
+52,Cardboard,Downtown,34380.0,2018-10-01,curbside
+53,Steel/Tin,Downtown,,2018-10-01,curbside
+54,Newspaper,Downtown,,2018-10-01,curbside
+55,All Mixed (no glass),Downtown,179710.0,2018-10-01,curbside
+56,Aluminum,KPD,,2018-10-01,other
+57,"Plastics (""Commingled"")",KPD,,2018-10-01,other
+58,Glass,KPD,,2018-10-01,other
+59,Mixed Paper,KPD,4958.0,2018-10-01,other
+60,Cardboard,KPD,,2018-10-01,other
+61,Steel/Tin,KPD,,2018-10-01,other
+62,Newspaper,KPD,,2018-10-01,other
+63,All Mixed (no glass),KPD,,2018-10-01,other
+64,Aluminum,Recycling Trailer,0.0,2018-10-01,other
+65,"Plastics (""Commingled"")",Recycling Trailer,0.0,2018-10-01,other
+66,Glass,Recycling Trailer,0.0,2018-10-01,other
+67,Mixed Paper,Recycling Trailer,0.0,2018-10-01,other
+68,Cardboard,Recycling Trailer,0.0,2018-10-01,other
+69,Steel/Tin,Recycling Trailer,0.0,2018-10-01,other
+70,Newspaper,Recycling Trailer,0.0,2018-10-01,other
+71,All Mixed (no glass),Recycling Trailer,0.0,2018-10-01,other
+0,Aluminum,Magnolia & Alice,898.0,2018-11-01,drop off center
+1,"Plastics (""Commingled"")",Magnolia & Alice,4740.0,2018-11-01,drop off center
+2,Glass,Magnolia & Alice,8720.0,2018-11-01,drop off center
+3,Mixed Paper,Magnolia & Alice,10300.0,2018-11-01,drop off center
+4,Cardboard,Magnolia & Alice,6820.0,2018-11-01,drop off center
+5,Steel/Tin,Magnolia & Alice,2080.0,2018-11-01,drop off center
+6,Newspaper,Magnolia & Alice,0.0,2018-11-01,drop off center
+7,All Mixed (no glass),Magnolia & Alice,,2018-11-01,drop off center
+8,Aluminum,225 Moody,0.0,2018-11-01,drop off center
+9,"Plastics (""Commingled"")",225 Moody,7140.0,2018-11-01,drop off center
+10,Glass,225 Moody,12020.0,2018-11-01,drop off center
+11,Mixed Paper,225 Moody,43100.0,2018-11-01,drop off center
+12,Cardboard,225 Moody,10080.0,2018-11-01,drop off center
+13,Steel/Tin,225 Moody,1700.0,2018-11-01,drop off center
+14,Newspaper,225 Moody,0.0,2018-11-01,drop off center
+15,All Mixed (no glass),225 Moody,,2018-11-01,drop off center
+16,Aluminum,4440 Western Av.,1190.0,2018-11-01,drop off center
+17,"Plastics (""Commingled"")",4440 Western Av.,6000.0,2018-11-01,drop off center
+18,Glass,4440 Western Av.,12400.0,2018-11-01,drop off center
+19,Mixed Paper,4440 Western Av.,8380.0,2018-11-01,drop off center
+20,Cardboard,4440 Western Av.,5280.0,2018-11-01,drop off center
+21,Steel/Tin,4440 Western Av.,0.0,2018-11-01,drop off center
+22,Newspaper,4440 Western Av.,0.0,2018-11-01,drop off center
+23,All Mixed (no glass),4440 Western Av.,,2018-11-01,drop off center
+24,Aluminum,341 Parkvillage,2660.0,2018-11-01,drop off center
+25,"Plastics (""Commingled"")",341 Parkvillage,28180.0,2018-11-01,drop off center
+26,Glass,341 Parkvillage,33188.0,2018-11-01,drop off center
+27,Mixed Paper,341 Parkvillage,74673.0,2018-11-01,drop off center
+28,Cardboard,341 Parkvillage,33305.0,2018-11-01,drop off center
+29,Steel/Tin,341 Parkvillage,2500.0,2018-11-01,drop off center
+30,Newspaper,341 Parkvillage,0.0,2018-11-01,drop off center
+31,All Mixed (no glass),341 Parkvillage,,2018-11-01,drop off center
+32,Aluminum,227 Willow Av.,960.0,2018-11-01,other
+33,"Plastics (""Commingled"")",227 Willow Av.,3920.0,2018-11-01,other
+34,Glass,227 Willow Av.,19020.0,2018-11-01,other
+35,Mixed Paper,227 Willow Av.,8170.0,2018-11-01,other
+36,Cardboard,227 Willow Av.,12220.0,2018-11-01,other
+37,Steel/Tin,227 Willow Av.,0.0,2018-11-01,other
+38,Newspaper,227 Willow Av.,3800.0,2018-11-01,other
+39,All Mixed (no glass),227 Willow Av.,,2018-11-01,other
+40,Aluminum,Curbside City-Wide,,2018-11-01,other
+41,"Plastics (""Commingled"")",Curbside City-Wide,,2018-11-01,other
+42,Glass,Curbside City-Wide,,2018-11-01,other
+43,Mixed Paper,Curbside City-Wide,,2018-11-01,other
+44,Cardboard,Curbside City-Wide,,2018-11-01,other
+45,Steel/Tin,Curbside City-Wide,,2018-11-01,other
+46,Newspaper,Curbside City-Wide,,2018-11-01,other
+47,All Mixed (no glass),Curbside City-Wide,652340.0,2018-11-01,other
+48,Aluminum,Downtown,,2018-11-01,curbside
+49,"Plastics (""Commingled"")",Downtown,,2018-11-01,curbside
+50,Glass,Downtown,,2018-11-01,curbside
+51,Mixed Paper,Downtown,,2018-11-01,curbside
+52,Cardboard,Downtown,36660.0,2018-11-01,curbside
+53,Steel/Tin,Downtown,,2018-11-01,curbside
+54,Newspaper,Downtown,,2018-11-01,curbside
+55,All Mixed (no glass),Downtown,52180.0,2018-11-01,curbside
+56,Aluminum,KPD,,2018-11-01,other
+57,"Plastics (""Commingled"")",KPD,,2018-11-01,other
+58,Glass,KPD,,2018-11-01,other
+59,Mixed Paper,KPD,,2018-11-01,other
+60,Cardboard,KPD,,2018-11-01,other
+61,Steel/Tin,KPD,,2018-11-01,other
+62,Newspaper,KPD,,2018-11-01,other
+63,All Mixed (no glass),KPD,,2018-11-01,other
+64,Aluminum,Recycling Trailer,0.0,2018-11-01,other
+65,"Plastics (""Commingled"")",Recycling Trailer,0.0,2018-11-01,other
+66,Glass,Recycling Trailer,0.0,2018-11-01,other
+67,Mixed Paper,Recycling Trailer,0.0,2018-11-01,other
+68,Cardboard,Recycling Trailer,0.0,2018-11-01,other
+69,Steel/Tin,Recycling Trailer,0.0,2018-11-01,other
+70,Newspaper,Recycling Trailer,0.0,2018-11-01,other
+71,All Mixed (no glass),Recycling Trailer,0.0,2018-11-01,other

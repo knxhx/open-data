@@ -1,0 +1,111 @@
+,source,class,landfill_wt,date
+0,Transfer Station ,Waste,1321.99,2018-01-01
+1,Household Trash,Waste,3530.99,2018-01-01
+2,Misc Trash,Waste,1.67,2018-01-01
+3,Construction,Waste,,2018-01-01
+4,Codes,Waste,,2018-01-01
+5,Transfer Station ,"C&D, Diverted",1072,2018-01-01
+6,Household Trash,"C&D, Diverted",,2018-01-01
+7,Misc Trash,"C&D, Diverted",,2018-01-01
+8,Construction,"C&D, Diverted",317,2018-01-01
+9,Codes,"C&D, Diverted",157,2018-01-01
+0,Transfer Station ,Waste,1075.73,2018-02-01
+1,Household Trash,Waste,3072.17,2018-02-01
+2,Misc Trash,Waste,0.88,2018-02-01
+3,Construction,Waste,,2018-02-01
+4,Codes,Waste,,2018-02-01
+5,Transfer Station ,"C&D, Diverted",1535,2018-02-01
+6,Household Trash,"C&D, Diverted",,2018-02-01
+7,Misc Trash,"C&D, Diverted",,2018-02-01
+8,Construction,"C&D, Diverted",543,2018-02-01
+9,Codes,"C&D, Diverted",360,2018-02-01
+0,Transfer Station ,Waste,1422.17,2018-03-01
+1,Household Trash,Waste,3540.61,2018-03-01
+2,Misc Trash,Waste,1,2018-03-01
+3,Construction,Waste,,2018-03-01
+4,Codes,Waste,,2018-03-01
+5,Transfer Station ,"C&D, Diverted",1453,2018-03-01
+6,Household Trash,"C&D, Diverted",,2018-03-01
+7,Misc Trash,"C&D, Diverted",,2018-03-01
+8,Construction,"C&D, Diverted",541,2018-03-01
+9,Codes,"C&D, Diverted",1008,2018-03-01
+0,Transfer Station ,Waste,1585.71,2018-04-01
+1,Household Trash,Waste,3309.1,2018-04-01
+2,Misc Trash,Waste,2.56,2018-04-01
+3,Construction,Waste,,2018-04-01
+4,Codes,Waste,,2018-04-01
+5,Transfer Station ,"C&D, Diverted",1643,2018-04-01
+6,Household Trash,"C&D, Diverted",,2018-04-01
+7,Misc Trash,"C&D, Diverted",,2018-04-01
+8,Construction,"C&D, Diverted",380,2018-04-01
+9,Codes,"C&D, Diverted",367,2018-04-01
+0,Transfer Station ,Waste,1226.41,2018-05-01
+1,Household Trash,Waste,3766.13,2018-05-01
+2,Misc Trash,Waste,0.95,2018-05-01
+3,Construction,Waste,,2018-05-01
+4,Codes,Waste,,2018-05-01
+5,Transfer Station ,"C&D, Diverted",2090,2018-05-01
+6,Household Trash,"C&D, Diverted",,2018-05-01
+7,Misc Trash,"C&D, Diverted",,2018-05-01
+8,Construction,"C&D, Diverted",244,2018-05-01
+9,Codes,"C&D, Diverted",247,2018-05-01
+0,Transfer Station ,Waste,1133.22,2018-06-01
+1,Household Trash,Waste,3554.16,2018-06-01
+2,Misc Trash,Waste,1.9,2018-06-01
+3,Construction,Waste,,2018-06-01
+4,Codes,Waste,,2018-06-01
+5,Transfer Station ,"C&D, Diverted",2249,2018-06-01
+6,Household Trash,"C&D, Diverted",,2018-06-01
+7,Misc Trash,"C&D, Diverted",,2018-06-01
+8,Construction,"C&D, Diverted",698,2018-06-01
+9,Codes,"C&D, Diverted",209,2018-06-01
+0,Transfer Station ,Waste,1196.06,2018-07-01
+1,Household Trash,Waste,3854.95,2018-07-01
+2,Misc Trash,Waste,2.18,2018-07-01
+3,Construction,Waste,,2018-07-01
+4,Codes,Waste,,2018-07-01
+5,Transfer Station ,"C&D, Diverted",2182,2018-07-01
+6,Household Trash,"C&D, Diverted",,2018-07-01
+7,Misc Trash,"C&D, Diverted",,2018-07-01
+8,Construction,"C&D, Diverted",384,2018-07-01
+9,Codes,"C&D, Diverted",307,2018-07-01
+0,Transfer Station ,Waste,1222.53,2018-08-01
+1,Household Trash,Waste,3799.15,2018-08-01
+2,Misc Trash,Waste,2,2018-08-01
+3,Construction,Waste,,2018-08-01
+4,Codes,Waste,,2018-08-01
+5,Transfer Station ,"C&D, Diverted",2377,2018-08-01
+6,Household Trash,"C&D, Diverted",,2018-08-01
+7,Misc Trash,"C&D, Diverted",,2018-08-01
+8,Construction,"C&D, Diverted",231,2018-08-01
+9,Codes,"C&D, Diverted",642,2018-08-01
+0,Transfer Station ,Waste,1003.78,2018-09-01
+1,Household Trash,Waste,3212.14,2018-09-01
+2,Misc Trash,Waste,1.8,2018-09-01
+3,Construction,Waste,,2018-09-01
+4,Codes,Waste,,2018-09-01
+5,Transfer Station ,"C&D, Diverted",1861,2018-09-01
+6,Household Trash,"C&D, Diverted",,2018-09-01
+7,Misc Trash,"C&D, Diverted",,2018-09-01
+8,Construction,"C&D, Diverted",477,2018-09-01
+9,Codes,"C&D, Diverted",402,2018-09-01
+0,Transfer Station ,Waste,1216,2018-10-01
+1,Household Trash,Waste,3591.5,2018-10-01
+2,Misc Trash,Waste,3.4,2018-10-01
+3,Construction,Waste,,2018-10-01
+4,Codes,Waste,,2018-10-01
+5,Transfer Station ,"C&D, Diverted",2246.3,2018-10-01
+6,Household Trash,"C&D, Diverted",,2018-10-01
+7,Misc Trash,"C&D, Diverted",,2018-10-01
+8,Construction,"C&D, Diverted",,2018-10-01
+9,Codes,"C&D, Diverted",,2018-10-01
+0,Transfer Station ,Waste,1076.1,2018-11-01
+1,Household Trash,Waste,3638,2018-11-01
+2,Misc Trash,Waste,3.6,2018-11-01
+3,Construction,Waste,,2018-11-01
+4,Codes,Waste,,2018-11-01
+5,Transfer Station ,"C&D, Diverted",1830.6,2018-11-01
+6,Household Trash,"C&D, Diverted",,2018-11-01
+7,Misc Trash,"C&D, Diverted",,2018-11-01
+8,Construction,"C&D, Diverted",,2018-11-01
+9,Codes,"C&D, Diverted",,2018-11-01
