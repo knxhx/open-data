@@ -1,5 +1,5 @@
 # Knoxville Open Data
-Repository for open data sets for the Knoxville City Hackathon and the files for the pretty front-end coming soon.
+Below are the open data sets and civic challenges for the Knoxville City Hackathon. There will be a prize to each member of the group that produces the best product that addresses the challenge / uses the open data set. This is separate from the top 3 overall prizes. Teams have a chance to double up on prizes by choosing a civic challenge / dataset and go for the overall prizes.
 
 
 ![Logo](icons/knxhx_lime.svg?sanitize=1 "Knoxville Hackathon")
@@ -62,7 +62,7 @@ Examples:
 Requirements:
 - Calendar of events, ability to send anonymous surveys to receive information from those in the community experiencing homelessness
 
-## Curbside Pickup
+## Waste and Resources
 
 ### Solid Waste Educational Tool: How much waste have we produced this year/month?
 
@@ -76,7 +76,13 @@ Once we establish any waste-reduction goals, we can measure against those goals.
 
 ### Responsive, tailored educational postcard to residents who don't set out properly
 
-On occasion with curbside pickup, mistakes like incorrect position of the bins or disposal of items that can't be received curbside without request means items are left curbside and if uncorrected, can make eventual pickup more difficult. Unfortunately, notification of these mistakes to households is often inconsistent and previous households that have made an error don't receive corrective action until much later. 
+On occasion, residents don't set out their curbside trash or recycling correctly:
+
+- trash carts may be placed too close to objects like telephone poles or cars
+- trash may overflow out of the cart
+- recycling carts may contain material that is not recyclable.
+
+These missteps slow collection and can create unsafe or unsanitary conditions. Unfortunately, notification of these mistakes may be inconsistent, delayed, or confusing.
 
 Find patterns of frequent "problem stops" from the Offenders List. Issue postcard to resident to help them understand how to properly manage trash (for example, if a certain resident frequently has overflow, send a postcard that explains limitations, encourages them to sign up for recycling, tells them where to take excess trash, etc.)
 
@@ -92,13 +98,13 @@ Provided are FAKE violators that simulate the data the department receives. For 
 
 ## Incentives for productive building reuse.
 
-### City sponsored facade grant recipients
+### City sponsored façade grant recipients
 
 The City of Knoxville Community Development Office provides an incentive program to improve the façades of certain types of buildings within targeted redevelopment areas. By bettering the appearance of building façades, the program serves to improve the economic viability of these areas. Better aesthetics increase property values, improve the marketability of space within the buildings and draw business and residents to the area. The grant is typically a small percentage of the cost of the overall building rejuvenation, as the building owner invests a ton of money inside the building, opening a new business, renovating and gutting the structure. but brings a visible change to the target areas. Currently, the city maintains an internal spreadsheet of all properties that have received commercial façade grants. While sites like Inside Knoxville have displayed photos and stories of businesses that have benefitted from the program, there is no website or listing the displays all of the locations that have received grants over the years. The City is interested in assessing the vitality of the program, and public visibility of the projects (beyond the improvements each project has made to each project's block) is an important assessment of the program's success.
 
 #### Data
 
-[parking data](data/parking_data.csv)
+[façade grant recipients](data/facade_grant_recipients.xls)
 
 ### PILOT recipients
 
@@ -138,22 +144,22 @@ Develop a technology solution to collect and send feedback to speakers and draw 
 
 ### Requirements
 
-| User      | I want...                                                                                                                                                                                                                                                                                                                                                                        | Priority   |
-|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| Technical | Develop a web-based solution for flexibility in access points and integration                                                                                                                                                                                                                                                                                                    | Essential  |
+| User      | I want...                                                    | Priority   |
+| --------- | ------------------------------------------------------------ | ---------- |
+| Technical | Develop a web-based solution for flexibility in access points and integration | Essential  |
 | Speaker   | to receive feedback on my CodeStock session(s) so I can improve my content and presentation skills.  - This info is collected:     - 1-5 rating (required) --- meaning of scale is clear to (e.g. 5 being best)     - comments (optional)     - name (optional)     - contact (optional)- attendee gets feedback on submission- attendee can only give feedback once per session | Essential  |
-| Attendee  | an easy way to give feedback on the CodeStock sessions I attend to improve conference content and be entered for prize drawings- Info presented on form where user is going to give feedback (API available from Sessionize to get this information)     - session name     - speaker name                                                                                       | Essential  |
-| Organizer | an easy way to send collected feedback to a speaker- feedback can be sent via e-mail                                                                                                                                                                                                                                                                                             | Essential  |
-| Organizer | ability to filter out feedback that is not productive (e.g. comments on appearance)                                                                                                                                                                                                                                                                                              | Essential  |
-| Organizer | to draw a name for each prize I want to give away                                                                                                                                                                                                                                                                                                                                | Want       |
-| Organizer | to re-draw a name quickly and from a mobile phone for each prize I want to give away                                                                                                                                                                                                                                                                                             | Want       |
-| Speaker   | to receive participant information if they choose to give it to me- Attendee can choose to send the information to the speaker (default is off)                                                                                                                                                                                                                                  | Want       |
-| You       | Other features to deliver a better experience to speakers and attendees                                                                                                                                                                                                                                                                                                          | Want       |
-| Speaker   | ability to store image(s) for a session so I can receive those images along with the feedback for the session                                                                                                                                                                                                                                                                    | Want       |
-| Organizer | an easy way to send feedback to many speakers                                                                                                                                                                                                                                                                                                                                    | Want       |
-| Organizer | to see analytics so I better understand the feedback being given about the content of the conference overall and by track (e.g. average star rating)                                                                                                                                                                                                                             | If you can |
-| Organizer | to see analytics to about attendee engagement in responding (e.g. # responses, # unique respondents)                                                                                                                                                                                                                                                                             | If you can |
-| Organizer | to designate time frame parameters to inform the list of names pulled for the prize drawing                                                                                                                                                                                                                                                                                      | If you can |
+| Attendee  | an easy way to give feedback on the CodeStock sessions I attend to improve conference content and be entered for prize drawings- Info presented on form where user is going to give feedback (API available from Sessionize to get this information)     - session name     - speaker name | Essential  |
+| Organizer | an easy way to send collected feedback to a speaker- feedback can be sent via e-mail | Essential  |
+| Organizer | ability to filter out feedback that is not productive (e.g. comments on appearance) | Essential  |
+| Organizer | to draw a name for each prize I want to give away            | Want       |
+| Organizer | to re-draw a name quickly and from a mobile phone for each prize I want to give away | Want       |
+| Speaker   | to receive participant information if they choose to give it to me- Attendee can choose to send the information to the speaker (default is off) | Want       |
+| You       | Other features to deliver a better experience to speakers and attendees | Want       |
+| Speaker   | ability to store image(s) for a session so I can receive those images along with the feedback for the session | Want       |
+| Organizer | an easy way to send feedback to many speakers                | Want       |
+| Organizer | to see analytics so I better understand the feedback being given about the content of the conference overall and by track (e.g. average star rating) | If you can |
+| Organizer | to see analytics to about attendee engagement in responding (e.g. # responses, # unique respondents) | If you can |
+| Organizer | to designate time frame parameters to inform the list of names pulled for the prize drawing | If you can |
 
 ## Other Datasets
 
