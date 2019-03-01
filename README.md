@@ -1,12 +1,21 @@
 # Knoxville Open Data
 Below are the open data sets and civic challenges for the Knoxville City Hackathon. There will be a prize to each member of the group that produces the best product that addresses the challenge / uses the open data set. This is separate from the top 3 overall prizes. Teams have a chance to double up on prizes by choosing a civic challenge / dataset and go for the overall prizes.
 
+The criteria for judging can be found on the [knxhx website](https://knxhx.org/)
 
 ![Logo](icons/knxhx_lime.svg?sanitize=1 "Knoxville Hackathon")
 
 
-[TOC]
+# Table of Contents
+The five prize categories are:
+- [Homelessness](/#homeslessness)
+- [Waste and Resources](/#Waste-and-Resources)
+- [Incentives for productive building reuse](/#Incentives-for-productive-building-reuse)
+- [Mobility](/#Mobility)
+- [Codestock Speaker Feedback Form](/#Codestock-Speaker-Feedback-Form)
 
+Other datasets that may be useful to address the five prize categories
+- [Other Datasets](#Other-Datasets)
 
 # Sponsored Problems
 
@@ -96,7 +105,7 @@ Provided are FAKE violators that simulate the data the department receives. For 
 
 [Curbside Violators (fake data)](data/curbside_violators_master_FAKE_DATA_011719.xlsx)
 
-## Incentives for productive building reuse.
+## Incentives for productive building reuse
 
 ### City sponsored façade grant recipients
 
