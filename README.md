@@ -116,6 +116,15 @@ In Knoxville and Knox County, the Payment-In-Lieu-Of-Taxes (PILOT) program is ta
 
 [PILOT recipients](data/PILOT_summary.xlsx)
 
+### Downtown catalog and directory
+
+Information on live music, happy hours and other events in downtown Knoxville that is reliable and authoritative with location and times. A stream of data could be made available for consumption by other apps, facebook, social media or and the like. Local businesses could easily make accounts to add their events.
+
+#### Data
+
+- [Eventbrite (API)](https://www.eventbrite.com/platform/api)
+- [Knoxville Weekend](http://www.knoxvilleweekend.com/channel/calendar/)
+- [Inside of Knoxville](https://insideofknoxville.com/)
 
 ## Mobility
 
