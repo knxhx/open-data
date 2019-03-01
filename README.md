@@ -8,11 +8,11 @@ The criteria for judging can be found on the [knxhx website](https://knxhx.org/)
 
 # Table of Contents
 The five prize categories are:
-- [Homelessness](/#homeslessness)
-- [Waste and Resources](/#Waste-and-Resources)
-- [Incentives for productive building reuse](/#Incentives-for-productive-building-reuse)
-- [Mobility](/#Mobility)
-- [Codestock Speaker Feedback Form](/#Codestock-Speaker-Feedback-Form)
+- [Homelessness](#homelessness)
+- [Waste and Resources](#Waste-and-Resources)
+- [Incentives for productive building reuse](#Incentives-for-productive-building-reuse)
+- [Mobility](#Mobility)
+- [Codestock Speaker Feedback Form](#Codestock-Speaker-Feedback-Form)
 
 Other datasets that may be useful to address the five prize categories
 - [Other Datasets](#Other-Datasets)
