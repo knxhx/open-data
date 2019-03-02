@@ -81,7 +81,7 @@ Once we establish any waste-reduction goals, we can measure against those goals.
 
 #### Data
 
-[Solid Waste Annual Reports](data/solid_waste_reports.csv)
+[Solid Waste Annual Reports](data/solid_waste_reports.xlsx)
 
 ### Responsive, tailored educational postcard to residents who don't set out properly
 
